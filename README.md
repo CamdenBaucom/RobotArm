@@ -23,7 +23,7 @@ During this project, we aspired to create a fun and fucntional mechanism control
 Software should be able to take inputs from processing GUI and use CircuitPython to execute.
 
 #### Needed Logic:
-
+```
 Tab Pulls Trigger
 
 Enter enabled Rev
@@ -35,8 +35,7 @@ Use x and y axis in GUI to adjust position
 
 
 ```
-Give examples
-```
+
 
 ### Software developement
 
