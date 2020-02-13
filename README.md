@@ -56,8 +56,9 @@ Give an example
 
 ## Built With
 
-
-
+* Processing v3
+* CircuitPython[Metro Board]
+* SolidWorks 
 ## Contributing
 
 
@@ -68,9 +69,8 @@ Give an example
 
 ## Authors
 
-* **Camden Baucom** - *Build, CAD, and wiring* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Philip Breen** - *Head of code and design* - [PurpleBooth](https://github.com/PurpleBooth)
-
+* **Camden Baucom** - *Build, CAD, and wiring* 
+* **Philip Breen** - *Head of code and design* 
 ## Acknowledgments
 
 
