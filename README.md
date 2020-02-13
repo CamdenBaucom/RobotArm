@@ -1,14 +1,13 @@
 # RobotArm
 #### CHS Engineering 3 Robot Arm Project, By: Camden Baucom and Philip Breen
 
-
-One Paragraph of project description goes here
+During this project, we aspired to create a fun and fucntional mechanism controlled with servos and a GUI, a graphical user interface. While researching past Robot Arm projects in the Sigma Lab, we were dissapointed to see how similar and seemingly useless they were, so we decided to move in a completely new and more interesting direction, a Nerf Blaster. We decided to place "**The Blaster**" on a rotating base situated on a bearing which would be controlled by a servo. Then, the vertical positing of "**The Blaster**" would be controlled by two servos that elevate the device above the base. All three of these servos would be controlled by the GUI, allowing us to have a wide range of movement for "**The Blaster**", all while never laying a finger on it. The reving system would be controlled by mounting a relay to the elctronic components inside "**The Blaster**." Finally, the trigger mechanism would be controlled by mounting a simple servo to the device's already established firing components.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Software Planning
 
 What things you need to install the software and how to install them
 
@@ -16,7 +15,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Software developement
 
 A step by step series of examples that tell you how to get a development env running
 
